@@ -44,3 +44,8 @@ This program exists to help students go from _"huh, what’s a div?"_ to _"yo, c
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
 </p>
+
+
+### 👨‍💻 Contributors
+
+This curriculum is a collaborative effort by the Excos of SIMITC.
