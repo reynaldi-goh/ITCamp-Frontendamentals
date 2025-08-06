@@ -8,9 +8,9 @@ Forking is **copying someone else's GitHub repository** to your own account so y
 
 ## 🚀 Getting Started
 
-## 🛠️ 1. Fork the Repo
+### 🛠️ 1. Fork the Repo
 
-### ✅ Steps:
+#### ✅ Steps:
 
 1. Go to [https://github.com/SIMITClubAdmin/ITCamp-Frontendamentals](https://github.com/SIMITClubAdmin/ITCamp-Frontendamentals)
 2. Click the **"Fork"** button (top-right of the page)
@@ -21,52 +21,43 @@ Now, you'll have a copy like:
 
 ---
 
-## 💻 2. Clone Your Fork Locally
+### 💻 2. Clone Your Fork Locally
 
-Open your terminal:
+Open your terminal and changt the GitHub repository URL to your fork:
 
 ```
 git clone https://github.com/your-username/ITCamp-Frontendamentals.git
-```
-```
 cd ITCamp-Frontendamentals
 ```
 
 ---
 
-## 🌊 3. Add the Original Repo as "Upstream"
-
-```
-git remote add upstream https://github.com/SIMITClubAdmin/ITCamp-Frontendamentals.git
-```
-
-Check remotes:
-
-```
-git remote -v
-```
-
-You should see both `origin` (your fork) and `upstream` (the original repo).
-
----
 ## 🔂 Typical Workflow
+
 Once you've set things up, here's the usual cycle:
 
-### 📝 1. Make Changes
+### 🔄 1. Keep Your Fork Updated
+
+Before working on anything, make sure your fork is up to date!
+
+1. Go to **your fork** on GitHub
+2. Click the **"Sync fork"** button (usually near the top)
+3. Click **"Update branch"**
+
+GitHub will automatically fetch and merge changes from the original repo.
+
+### 📝 2. Make Changes
 
 Stage all files
+
 ```bash
 git add .
-```
-
-Commit
-```bash
 git commit -m "Your message here"
 ```
 
 ---
 
-### 🚀 2. Push Changes to Your Fork
+### 🚀 3. Push Changes to Your Fork
 
 ```bash
 git push origin main
@@ -75,31 +66,10 @@ git push origin main
 
 ---
 
-### 📦 6. Create a Pull Request (PR)
+### 📦 4. Create a Pull Request (PR)
 
 1. Go to your fork on GitHub
 2. Click **“Contribute” > “Open pull request”**
 3. Fill in the title, description, and submit it
-
----
-
-### 🔄 7. Keep Your Fork Updated
-
-To sync your fork with the original project:
-(use this before you start working or after some time to get the latest updates)
-
-```bash
-git fetch upstream
-```
-```bash
-git checkout main
-```
-```bash
-git merge upstream/main
-```
-resolve conflicts if any
-```bash
-git push origin main
-```
 
 ---
