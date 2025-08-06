@@ -10,13 +10,13 @@
 2. [📦 Project Setup](#-project-setup)
 3. [📄 Code Walkthrough](#-code-walkthrough)
 4. [🧪 Exercises](#-exercises)
-5. [📝 Bonus Resources](#-bonus-resources)
-6. [🙌 Contributors](#-contributors)
+5. [🛠️ Pushing Your Work](#-pushing-your-work)
+6. [📝 Bonus Resources](#-bonus-resources)
+7. [🙌 Contributors](#-contributors)
 
 ## 🔍 Topic Overview
 
 In this session, we'll cover:
-
 * Brief summary of the workshop topic.
 * Why this topic is important
 * Real-world examples.
@@ -74,6 +74,17 @@ const HelloWorld = () => {
 * 🏁 Starter Exercise: ...
 * 🔧 Modify This Component: ...
 * 🧠 Thought Question: ...
+
+## 🛠️ Pushing Your Work
+
+<!-- TODO: If dont have updates, then remove this section (and the Table of Contents too) -->
+Once you're done with the exercises and your changes are complete, make sure to push your updates:
+```bash
+git add .
+git commit -m "Complete workshop exercises"
+git push origin main
+```
+
 
 ## 📝 Bonus Resources
 
