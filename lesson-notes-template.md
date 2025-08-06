@@ -13,8 +13,6 @@
 5. [📝 Bonus Resources](#-bonus-resources)
 6. [🙌 Contributors](#-contributors)
 
----
-
 ## 🔍 Topic Overview
 
 In this session, we'll cover:
@@ -84,8 +82,6 @@ const HelloWorld = () => {
 * [React Docs](https://react.dev/)
 * [Tailwind Docs](https://tailwindcss.com/)
 
----
-
 ## 🙌 Contributors
 <!-- TODO: Update this, add your name, edit the role and github username and links -->
 | Name         | Role                | GitHub                                             |
@@ -96,8 +92,6 @@ const HelloWorld = () => {
 | Your Name | Activity Creator 2         | [@yourgithub](https://github.com/yourgithub)       |
 | Your Name | Reviewer 1         | [@yourgithub](https://github.com/yourgithub)       |
 | Your Name | Reviewer 2         | [@yourgithub](https://github.com/yourgithub)       |
-
----
 
 <!-- TODO: Delete this section when you are done-->
 ## 📌 Heading Format Guide (for consistency)
