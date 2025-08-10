@@ -16,7 +16,7 @@ This program exists to help students go from _"huh, what’s a div?"_ to _"yo, c
 - Advanced (ES6, Loops, Events, Storage)
 
 
-### Phase 3: [Frameworks & Deployment](curriculum/phase3-react)
+### Phase 3: [Frameworks & Deployment](curriculum/phase3-frameworks)
 
 - React, Next.js, Tailwind  
 - Components, state, props, effects  
