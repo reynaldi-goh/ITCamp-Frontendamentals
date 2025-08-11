@@ -10,7 +10,7 @@ Forking is **copying someone else's GitHub repository** to your own account so y
 
 #### ✅ Steps:
 
-1. Go to [https://github.com/SIMITClubAdmin/ITCamp-Frontendamentals](https://github.com/SIMITClubAdmin/ITCamp-Frontendamentals)
+1. Go to [https://github.com/SIMITClub/ITCamp-Frontendamentals](https://github.com/SIMITClubAdmin/ITCamp-Frontendamentals)
 2. Click the **"Fork"** button (top-right of the page)
 3. Click the **"Create Fork"** button
 
