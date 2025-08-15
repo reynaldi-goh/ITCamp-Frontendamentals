@@ -49,3 +49,12 @@ This program exists to help students go from _"huh, what’s a div?"_ to _"yo, c
 ### 👨‍💻 Contributors
 
 This curriculum is a collaborative effort by the Excos of SIMITC.
+
+### Stars to the Moon 🚀
+<a href="https://star-history.com/#SIMITClub/ITCamp-Frontendamentals&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SIMITClub/ITCamp-Frontendamentals&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SIMITClub/ITCamp-Frontendamentals&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SIMITClub/ITCamp-Frontendamentals&type=Date" />
+ </picture>
+</a>
