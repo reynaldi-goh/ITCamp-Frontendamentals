@@ -1,4 +1,4 @@
-# 🧠 01 - Git and GitHub
+# 🧠 01 - Workshop Title Here
 
 <!-- TODO: Update this -->
 > TLDR; A quick overview of the topic and what students will learn in this session.
@@ -49,9 +49,30 @@ const HelloWorld = () => {
 * [Tailwind Docs](https://tailwindcss.com/)
 
 ## 🙌 Contributors
+<!-- TODO: Update this, add your name, edit the role and github username and links -->
 | Name         | Role                | GitHub                                             |
 | ------------ | ------------------- | -------------------------------------------------- |
-| Winston Faustin    | Speaker & Activity Creator 1 | [@winstonfaustin](https://github.com/winstonfaustin)       |
-| Michelle Chan    | Speaker & Activity Creator 2 | [@Chelle007](https://github.com/Chelle007)       |
-| Desmond | Reviewer 1         | [@desraymondz](https://github.com/desraymondz)       |
-| Yan Mei | Reviewer 2         | [@yxnmei](https://github.com/yxnmei)       |
+| Your Name    | Speaker 1 | [@yourgithub](https://github.com/yourgithub)       |
+| Your Name    | Speaker 2 | [@yourgithub](https://github.com/yourgithub)       |
+| Your Name | Activity Creator 1         | [@yourgithub](https://github.com/yourgithub)       |
+| Your Name | Activity Creator 2         | [@yourgithub](https://github.com/yourgithub)       |
+| Your Name | Reviewer 1         | [@yourgithub](https://github.com/yourgithub)       |
+| Your Name | Reviewer 2         | [@yourgithub](https://github.com/yourgithub)       |
+
+<!-- TODO: Delete this section when you are done-->
+## 📌 Heading Format Guide (for consistency)
+
+Use these emoji-based headers for every section:
+
+```md
+## 🧠 Title – For lesson title
+## 📚 Title – For table of contents
+## 🔍 Title – For explanation
+## 📦 Title – For tools or dependencies and setup
+
+## 📄 Title – For code breakdown
+## 🧪 Title – For exercises
+## 📝 Title – For documentation-related things
+
+## 🙌 Title – For contributors
+```
