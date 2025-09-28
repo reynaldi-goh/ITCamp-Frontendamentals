@@ -5,10 +5,9 @@
 
 ## 📚 Table of Contents
 
-<!-- TODO: remember to change this -->
 1. [🔍 Topic Overview](#-topic-overview)
 2. [📦 Project Setup](#-project-setup)
-3. [📄 Code Walkthrough](#-code-walkthrough)
+3. [📄 Command Walkthrough](#-command-walkthrough)
 4. [🧪 Exercises](#-exercises)
 5. [📝 Bonus Resources](#-bonus-resources)
 6. [🙌 Contributors](#-contributors)
@@ -82,16 +81,36 @@ Set up Git and VS Code to recognize you and link to GitHub:
   - Click the **Accounts icon** (bottom-left corner).
   - Log in with your GitHub account for smooth integration.
 
-## 📄 Code Walkthrough
+## 📄 Command Walkthrough
 
-Use this section to explain important code blocks:
+```bash
+# Configure your identity (one-time setup)
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
 
-```tsx
-// Example code
-const HelloWorld = () => {
-  return <h1>Hello World 🌍</h1>;
-};
+# Clone a repository
+git clone <repo-url>
+
+# Check current branch
+git branch
+
+# Create a new branch and switch to it
+git checkout -b <branch-name>
+
+# Stage changes for commit
+git add <file-name>
+
+# Commit changes with a message
+git commit -m "Add hello.txt file"
+
+# Push changes to GitHub
+git push origin <branch-name>
+
+# Pull latest changes from remote
+git pull origin main
 ```
+
+>✅ Tip: VS Code Source Control UI does most of these steps visually, but it’s good to know the commands behind the buttons.
 
 ## 🧪 Exercises
 
