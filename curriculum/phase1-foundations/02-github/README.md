@@ -102,10 +102,11 @@ const HelloWorld = () => {
 
 ## 📝 Bonus Resources
 
-<!-- TODO: Edit or change this, can add youtube link if applicable -->
-* [MDN Docs](https://developer.mozilla.org/)
-* [React Docs](https://react.dev/)
-* [Tailwind Docs](https://tailwindcss.com/)
+* [Official Git Documentation](https://git-scm.com/doc)  
+* [GitHub Docs](https://docs.github.com/)  
+* [Git Handbook (GitHub Guide)](https://guides.github.com/introduction/git-handbook/)  
+* [Learn Git Branching (Interactive Game)](https://learngitbranching.js.org/)  
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
 
 ## 🙌 Contributors
 | Name         | Role                | GitHub                                             |
