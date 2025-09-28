@@ -21,7 +21,41 @@ In this session, we'll cover:
 * Real-world examples.
 
 ## 📦 Project Setup
-<!-- TODO: Delete this if not needed -->
+
+Before starting, make sure your tools are ready:
+
+### 1. Install Git  
+VS Code requires Git to manage version control.  
+
+- **macOS:** Install [Homebrew](https://brew.sh/), then run:  
+  ```bash
+  brew install git
+  ```
+
+- **Windows:** Download and install [Git for Windows](https://git-scm.com/downloads/win).
+
+---
+
+### 2. Create a GitHub Account
+- Sign up at [github.com](https://github.com/).
+- Students can unlock free perks with the [GitHub Education Pack](https://education.github.com/pack).
+- Optional: Install this [Chrome extension](https://chromewebstore.google.com/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff) to visualize commit history.
+- Connect with your **mentor** and **teammates** on GitHub for collaboration.
+
+---
+
+### 3. Configure Your Tools
+Set up Git and VS Code to recognize you and link to GitHub:
+
+- **Identify yourself (one-time setup in Terminal):**
+  ```bash
+  git config --global user.name "Your Name"
+  git config --global user.email "youremail@example.com"
+  ```
+
+- **Sign in to GitHub from VS Code:**
+  - Click the **Accounts icon** (bottom-left corner).
+  - Log in with your GitHub account for smooth integration.
 
 ## 📄 Code Walkthrough
 
