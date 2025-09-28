@@ -27,7 +27,6 @@
 
 - **Branching & Merging**  
   Safely experiment with new features using branches, then merge them back into `main` without breaking the project.  
-  (Don’t commit straight to `main` 🚨).  
 
 - **Merge Conflicts**  
   What they are, why they happen, and how to resolve them easily in VS Code.  
@@ -114,26 +113,23 @@ git pull origin main
 
 ## 🧪 Exercises
 
-1. **Starter Exercise: Fork & Clone a Repo**  
-   - Fork the ITC curriculum repository on GitHub.  
-   - Clone it to your local machine using VS Code.  
-   - Add a `hello.txt` file, commit, and push your changes.
+1. 🏁 Starter Exercise: **GitHub → Local**  
+  - Fork the ITC curriculum repository and clone it to your local machine.  
+  - Add a `hello.txt` file, commit, and push using VS Code Source Control.  
 
-2. **Branching Exercise**  
-   - Create a new branch: `git checkout -b <branch-name>`.  
-   - Edit `hello.txt` (e.g., add “I love <something>”).  
-   - Commit and push your branch to GitHub.  
-   - Switch back to `main` to see that your changes are isolated.
+2. 🔧 Practice Exercise: **Branching**  
+  - Create a new branch (`git checkout -b <branch-name>`).  
+  - Edit `hello.txt` and push your branch to GitHub.  
+  - Switch back to `main` and confirm changes disappear.  
 
-3. **Merge Conflict Exercise**  
-   - Pull updates from the ITC curriculum repository.  
-   - Resolve a merge conflict in `hello.txt` using VS Code’s conflict editor.  
-   - Commit the resolved changes.
+3. ⚔️ Challenge Exercise: **Merge Conflict**  
+  - Pull updates from the ITC curriculum repo.  
+  - Resolve a merge conflict in `hello.txt` using VS Code’s conflict editor.  
 
-4. **Team Exercise: Create a Project Repo**  
-   - Team leader creates a GitHub repo and invites members.  
-   - Each member adds their name to the README on their own branch.  
-   - Open pull requests and merge them into `main`.  
+4. 🧠 Team Exercise: **Create a Project Repo**  
+  - Leader creates a GitHub repo and shares it with the team.  
+  - Each member adds their name to the README via their own branch.  
+  - Open pull requests and merge them into `main`.  
 
 ## 📝 Bonus Resources
 
