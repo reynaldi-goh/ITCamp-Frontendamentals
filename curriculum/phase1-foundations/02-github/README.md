@@ -41,6 +41,8 @@ const HelloWorld = () => {
 * 🔧 Modify This Component: ...
 * 🧠 Thought Question: ...
 
+> For more details please check `exercises` folder.
+
 ## 📝 Bonus Resources
 
 <!-- TODO: Edit or change this, can add youtube link if applicable -->
