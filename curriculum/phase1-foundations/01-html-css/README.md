@@ -1,4 +1,4 @@
-# 🧠 01 - Workshop Title Here
+# 🧠 01 - Intro to Web, HTML, CSS
 
 <!-- TODO: Update this -->
 > TLDR; A quick overview of the topic and what students will learn in this session.
@@ -52,12 +52,12 @@ const HelloWorld = () => {
 <!-- TODO: Update this, add your name, edit the role and github username and links -->
 | Name         | Role                | GitHub                                             |
 | ------------ | ------------------- | -------------------------------------------------- |
-| Your Name    | Speaker 1 | [@yourgithub](https://github.com/yourgithub)       |
-| Your Name    | Speaker 2 | [@yourgithub](https://github.com/yourgithub)       |
+| Fukutaro Sie  | Speaker 1 | [@fukutarosie](https://github.com/fukutarosie)       |
+| Somya Mehta   | Speaker 2 | [@yourgithub](https://github.com/yourgithub)       |
 | Your Name | Activity Creator 1         | [@yourgithub](https://github.com/yourgithub)       |
 | Your Name | Activity Creator 2         | [@yourgithub](https://github.com/yourgithub)       |
-| Your Name | Reviewer 1         | [@yourgithub](https://github.com/yourgithub)       |
-| Your Name | Reviewer 2         | [@yourgithub](https://github.com/yourgithub)       |
+| Desmond | Reviewer 1         | [@yourgithub](https://github.com/yourgithub)       |
+| Yan Mei | Reviewer 2         | [@yourgithub](https://github.com/yourgithub)       |
 
 <!-- TODO: Delete this section when you are done-->
 ## 📌 Heading Format Guide (for consistency)
