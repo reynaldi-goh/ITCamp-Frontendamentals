@@ -38,31 +38,24 @@
 
 Before we begin:
 
-1. **Check prerequisite**
-   ```bash
-   node -v
-   ```
+1. **Sync your fork**
+    * To make sure your forked repo is up to date with the main repo.
+    * **Go to your forked repo on GitHub** and click the **Sync** fork button (top right)
 
-2. **Copy starter code**
+2. **Navigate to the lesson folder**
+    <!-- TODO: Change this according to your lesson folder -->
+    ```bash
+    cd curriculum/phase1-foundations/03-advance-css
+    ```
+
+3. **Navigate to starter code**
    * Navigate to github and copy the starter code to check if Tailwind is working
-
-3. **Setup Your HTML File**
-   ```html
-   <!DOCTYPE html>
-   <html lang="en">
-   <head>
-     <meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Tailwind CSS Workshop</title>
-     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-   </head>
-   <body>
-     <h1 class="text-3xl font-bold underline m-8 text-blue-500">
-       Tailwind is working! 🎉
-     </h1>
-   </body>
-   </html>
-   ```
+    ```bash
+    git checkout starter
+    ```
+    
+4. **Make sure that tailwind is working**
+   * Run the code in your browser
 
 ## 📄 Code Walkthrough
 
@@ -256,6 +249,16 @@ Tasks:
 - Add a Hero title, a text in the middle of the screen with SIM ITC slogan “Your Arrow Into Tech”
 - Change the Hero title Typography to Bold, 4xl size, font to something else
 
+## 🛠️ Pushing Your Work
+
+<!-- TODO: If dont have updates, then remove this section (and the Table of Contents too) -->
+Once you're done with the exercises and your changes are complete, make sure to push your updates:
+```bash
+git add .
+git commit -m "Complete workshop exercises"
+git push origin main
+```
+
 ## 📝 Bonus Resources
 
 * [Tailwind Docs](https://tailwindcss.com/)
@@ -264,7 +267,7 @@ Tasks:
 <!-- TODO: Update this, add your name, edit the role and github username and links -->
 | Name         | Role                | GitHub                                             |
 | ------------ | ------------------- | -------------------------------------------------- |
-| Vanness Yang    | Speaker & Activity Creator 1 | [@yourgithub](https://github.com/yourgithub)       |
-| Jayadipa Fukutaro    | Speaker & Activity Creator 2 | [@vanness1900](https://github.com/vanness1900)       |
+| Vanness Yang    | Speaker & Activity Creator 1 | [@vanness1900](https://github.com/vanness1900)        |
+| Jayadipa Fukutaro    | Speaker & Activity Creator 2 | [@yourgithub](https://github.com/yourgithub)       |
 | Desmond | Reviewer 1         | [@desraymondz](https://github.com/desraymondz)       |
 | Yan Mei | Reviewer 2         | [@yxnmei](https://github.com/yxnmei)       |
