@@ -1107,7 +1107,7 @@ function addTask(){
 Can you add delete button to this code? How about dark mode? Could you improve the functionality of this simple application?
 ## Summary
  
-In this lesson, we explored the fundamentals of JavaScript and how it brings interactivity to the web. You learned how to use `console.log()` for debugging, link scripts to HTML in different ways, and store data using let and const. We covered data types, conditionals, loops, and functions — the essential tools for writing logic and automating repetitive tasks. Arrays and objects were introduced as powerful ways to organize and model data, setting the stage for real-world applications.
+In this lesson, we explored the fundamentals of JavaScript and how it brings interactivity to the web. You learned how to use `console.log()` for debugging, link scripts to HTML in different ways, and store data using `let` and `const`. We covered data types, conditionals, loops, and functions — the essential tools for writing logic and automating repetitive tasks. Arrays and objects were introduced as powerful ways to organize and model data, setting the stage for real-world applications.
 
 Through two mini projects, you saw how these concepts connect in practice. The mini library project demonstrated how arrays and objects work together to simulate a real-world system, while the to-do list project showed how to manipulate the Document Object Model (DOM) — selecting elements, handling user events, and dynamically updating content. By the end, you learned not just how to make things work, but how to make code modular, readable, and extendable. You now have a foundation strong enough to keep exploring web development — or at least break fewer things when you experiment.
 
