@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Lesson 4 ITCamp - Mini Project B</title>
+        <style>
+            .completed {
+            text-decoration: line-through; /*when completed, the task is crossed*/
+            color: gray; /*the colour is then changed to grey*/ 
+            }
+            body { 
+                font-family: sans-serif; 
+                padding: 20px; 
+            }
+            input { 
+                margin-right: 8px; 
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id = "title">To-do List</h1>
+        <input id="taskInput" placeholder="Type a task..." />
+        <button id="addBtn">Add</button>
+        <ul id="taskList"></ul>
+        <script src="script.js"></script>
+    </body>
+</html>
