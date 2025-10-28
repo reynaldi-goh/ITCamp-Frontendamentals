@@ -8,7 +8,7 @@ Create a GitHub repository for your internal project and collaborate as a team.
 1. **Leader:** Create a new GitHub repository using your own account.
 
 2. **Leader:** Create a `README.md` file in the repository:
-   - Use the template from the **ITCurriculum lesson 2** folder.
+   - Use the `README.md` template from the [ITCurriculum lesson 2 starter folder](https://github.com/SIMITClub/ITCamp-Frontendamentals/blob/main/curriculum/phase1-foundations/02-github/starter/README.md).
    - Fill in the project name and team name, but leave the team member table empty.
    - Add, commit, and push it to the GitHub repository.
 
