@@ -20,13 +20,18 @@ Fork and pull the [ITC curriculum repository](https://github.com/SIMITClub/ITCam
    # Make sure the URL points to your fork, not the ITC account
    ```
 
-5. Change the content in `hello.txt` under `starter` folder into your name.
+5. Navigate to the curriculum directory
+   ```bash
+   cd ITCamp-Frontendamentals
+   ```
+   
+6. Change the content in `hello.txt` under `starter` folder into your name.
 
    ```bash
    Hello, my name is <change it into your name>
    ```
 
-6. **Commit and push** your changes using either VS Code Source Control or Git commands.
+7. **Commit and push** your changes using either VS Code Source Control or Git commands.
 
    ```bash
    git add .
@@ -34,7 +39,7 @@ Fork and pull the [ITC curriculum repository](https://github.com/SIMITClub/ITCam
    git push
    ```
    
-7. On GitHub, verify that your updates appear in your forked repository.  
+8. On GitHub, verify that your updates appear in your forked repository.  
 > Note: The ITC repository will remain unchanged.
 
-8. **⚔️ Optional Challenge:** If you finish early, copy your Lesson 1 code, place it in the `lesson 1` folder, and push it to your GitHub repository using your preferred method.
+9. **⚔️ Optional Challenge:** If you finish early, copy your Lesson 1 code, place it in the `lesson 1` folder, and push it to your GitHub repository using your preferred method.
