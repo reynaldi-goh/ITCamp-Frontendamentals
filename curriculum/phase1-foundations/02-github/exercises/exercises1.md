@@ -28,6 +28,12 @@ Fork and pull the [ITC curriculum repository](https://github.com/SIMITClub/ITCam
 
 6. **Commit and push** your changes using either VS Code Source Control or Git commands.
 
+   ```bash
+   git add .
+   git commit -m "change name"
+   git push
+   ```
+   
 7. On GitHub, verify that your updates appear in your forked repository.  
 > Note: The ITC repository will remain unchanged.
 
