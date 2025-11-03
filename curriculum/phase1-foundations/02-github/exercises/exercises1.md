@@ -8,9 +8,10 @@ Fork and pull the [ITC curriculum repository](https://github.com/SIMITClub/ITCam
 
 1. On GitHub (ITC account), open the [ITC curriculum repository](https://github.com/SIMITClub/ITCamp-Frontendamentals) and click **Fork**.  
    > Tip: Follow the ITC GitHub account and star the repo.
-   <img width="1470" height="774" alt="image" src="https://github.com/user-attachments/assets/06fc56e9-21cf-428b-8943-27017f3d765d" />
+   <img width="1470" height="698" alt="image" src="https://github.com/user-attachments/assets/7fb3ce4c-9744-4e25-aba2-d2099c219d6f" />
 
 2. On GitHub (your own account), open **your** forked repository and copy the repository link.
+   <img width="1470" height="691" alt="image" src="https://github.com/user-attachments/assets/6e8036ca-ab8e-4f12-9dbb-732be1953597" />
 
 3. In VS Code, navigate to the directory where you want to place the curriculum code.
 
