@@ -1,32 +1,31 @@
 # 🧪 Exercise 3: Merge Conflict
 
 ## Goal
-Sync the latest code from the ITC curriculum repository and practice resolving a merge conflict.  
+Practice resolving a merge conflict.  
 > You can use **VS Code Source Control** or **Git commands in the terminal**, whichever you prefer.
 
 ## Steps
 
-0. We have made a change to `hello.txt` in our main branch in ITC GitHub:
+1. Change your `hello.txt` content on **main branch** into just this line:
 
    ```bash
    Welcome to ITCamp!!!
    ```
 
-1. Sync your fork on GitHub by going to your repository and clicking **Fetch upstream** → **Fetch and merge**.
-
-2. Pull the latest changes to your local repository:
+2. Merge your new branch you made on Exercise 2 into your current(main) branch:
 
    ```bash
-   git pull origin main
+   git merge <your-branch-name> 
    ```
 
-   > This will create a **merge conflict** since you have made changes to `hello.txt` in Exercise 1.
-
+   > This will create a **merge conflict**, since both your main branch and your new branch edited the same file `hello.txt` differently.
+   
 3. Resolve the merge conflict. Edit the file so that both changes are kept:
 
    ```bash
    Welcome to ITCamp!!!
    Hello, my name is <your name>
+   I love <something you love>
    ```
 
 4. Stage and commit the resolved file:
@@ -42,12 +41,4 @@ Sync the latest code from the ITC curriculum repository and practice resolving a
    git push origin main
    ```
 
-✅ You’ve successfully resolved a merge conflict!  
-
-6. **⚔️ Optional Challenge:** If you finish early, try merging your feature branch into main and combine all changes so that `hello.txt` looks like:
-
-   ```bash
-   Welcome to ITCamp!!!
-   Hello, my name is <your name>
-   I love <something you love>
-   ```
+✅ You’ve successfully resolved a merge conflict!
