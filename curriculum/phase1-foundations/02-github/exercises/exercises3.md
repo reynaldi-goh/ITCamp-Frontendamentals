@@ -31,7 +31,7 @@ Practice resolving a merge conflict.
 4. Stage and commit the resolved file:
 
    ```bash
-   git add hello.txt
+   git add .
    git commit -m "Resolve merge conflict in hello.txt"
    ```
 
