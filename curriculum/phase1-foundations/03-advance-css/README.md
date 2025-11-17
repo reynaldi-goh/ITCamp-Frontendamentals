@@ -268,6 +268,6 @@ git push origin main
 | Name         | Role                | GitHub                                             |
 | ------------ | ------------------- | -------------------------------------------------- |
 | Vanness Yang    | Speaker & Activity Creator 1 | [@vanness1900](https://github.com/vanness1900)        |
-| Jayadipa Fukutaro    | Speaker & Activity Creator 2 | [@yourgithub](https://github.com/yourgithub)       |
+| Jayadipa Fukutaro    | Speaker & Activity Creator 2 | [@fukutarosie](https://github.com/fukutarosie)       |
 | Desmond | Reviewer 1         | [@desraymondz](https://github.com/desraymondz)       |
 | Yan Mei | Reviewer 2         | [@yxnmei](https://github.com/yxnmei)       |
