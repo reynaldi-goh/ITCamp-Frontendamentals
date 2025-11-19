@@ -42,20 +42,20 @@ Before we begin:
     * To make sure your forked repo is up to date with the main repo.
     * **Go to your forked repo on GitHub** and click the **Sync** fork button (top right)
 
-2. **Navigate to the lesson folder**
-    <!-- TODO: Change this according to your lesson folder -->
-    ```bash
-    cd curriculum/phase1-foundations/03-advance-css
-    ```
+1. **Open your project folder**
+    * Navigate to the folder where you cloned your forked repo.
 
-3. **Navigate to starter code**
-   * Navigate to github and copy the starter code to check if Tailwind is working
-    ```bash
-    git checkout starter
-    ```
-    
-4. **Make sure that tailwind is working**
-   * Run the code in your browser
+1. **Pull the changes to your local machine**
+   ```bash
+       git checkout main
+       git pull origin main
+   ```
+  
+1. **Open the starter code**
+    * It's inside curriculum/phase1-foundations/03-advance-css/starter/index.html.
+  
+1. **Make sure that tailwind is working**
+    * Right click the index.html file and choose "Open with Live Server"
 
 ## 📄 Code Walkthrough
 
