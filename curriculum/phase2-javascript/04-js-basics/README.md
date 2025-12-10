@@ -79,7 +79,7 @@ Before we begin:
 4. **Navigate to the lesson folder**
     <!-- TODO: Change this according to your lesson folder -->
     ```bash
-    cd curriculum/2/JSBasics
+    cd curriculum/phase2-javascript/04-js-basics
     ```
 
 4. **Install dependencies (if any)**
