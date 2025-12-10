@@ -33,3 +33,5 @@ Create a new branch and upload changes.
    ```bash
    git checkout main
    ```
+
+6. Go to your forked github repository and check that the new branch has been uploaded
