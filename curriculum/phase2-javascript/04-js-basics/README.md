@@ -201,6 +201,27 @@ console.log(typeof(numbers), typeof(person));
 
 
 You can use `typeof` to check what kind of data something is.
+
+Before going to the conditionals, let's discuss about arithmetic operations
+
+| Operator | Meaning             | Example           | Result |
+| -------- | ------------------- | ----------------- | ------ |
+| `+`      | Addition            | `4 + 2`           | `6`    |
+| `-`      | Subtraction         | `4 - 2`           | `2`    |
+| `*`      | Multiplication      | `4 * 2`           | `8`    |
+| `/`      | Division            | `4 / 2`           | `2`    |
+| `%`      | Modulus (remainder) | `5 % 2`           | `1`    |
+| `++`     | Increment           | `let a = 10; a++` | `11`   |
+| `--`     | Decrement           | `let a = 10; a--` | `9`    |
+
+Then, string concatenation:
+String concatenation means joining strings together. In JavaScript, this is commonly done using the + operator.
+```js
+let firstName = "Alex";
+let result = "Hello " + firstName;
+console.log(result); // result = Hello Alex
+```
+
 ### E. Conditionals
 
 * Conditionals let your code make decisions.
@@ -876,7 +897,7 @@ for (let i = 0; i < students.length; i++) {
 
 Possible extension idea for extra points: (please approach your mentor when you are done)
 1. Apparently, there has been a mistake on Alice's marks, "78" is supposed to be "67". How would you approach this problem?
-2. Fix the variable declaration keywords.
+2. Do you think the variable declaration keywords are good enough. Anything to change? Explain your answer!
 3. Implement findMin() and add the minimum score as one of the data returned. Do note that it has variable scope problem, resolve it first! And explain your solution!
 
 ## Document Object Model Manipulation
