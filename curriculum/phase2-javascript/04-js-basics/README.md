@@ -701,6 +701,9 @@ Could you enhance this code modularity? Or perhaps its library capabilities, lik
 
 ## 🧪 Mini Project B - Student Grade Manager
 
+Open a file called `gradeManager.js`. Your task is to modify the code so that each function works correctly!
+Make sure you change `script` source to see the javascript code working.
+
 | Time  | Task                                                     | Concepts Used                      |
 | ----- | -------------------------------------------------------- | ---------------------------------- |
 | 3 min | Create a student object with name, age, grades array     | Objects, Arrays                    |
