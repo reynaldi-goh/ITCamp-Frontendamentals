@@ -795,10 +795,7 @@ console.log(savedContacts);
 
 ## 🧪 Exercises
 
-<!-- TODO: Depends on you -->
-* 🏁 Starter Exercise: ...
-* 🔧 Modify This Component: ...
-* 🧠 Thought Question: ...
+Please do `exercise1.js`, `exercise2.js`, and a mini project consisting of `data.js` and `main.js`. Don't forget to change the script `src` in `index.html` file accordingly.
 
 ## 🛠️ Pushing Your Work
 
